@@ -1,4 +1,5 @@
 # ERPNext - Open Source ERP for small, medium sized businesses [![Build Status](https://travis-ci.org/frappe/erpnext.png)](https://travis-ci.org/frappe/erpnext)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fremonzh%2Ferpnext.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fremonzh%2Ferpnext?ref=badge_shield)
 
 [https://erpnext.com](https://erpnext.com)
 
@@ -38,6 +39,9 @@ GNU/General Public License (see LICENSE.txt)
 The ERPNext code is licensed as GNU General Public License (v3) and the Documentation is licensed as Creative Commons (CC-BY-SA-3.0) and the copyright is owned by Web Notes Technologies Pvt Ltd (Web Notes) and Contributors.
 
 ---
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fremonzh%2Ferpnext.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fremonzh%2Ferpnext?ref=badge_large)
 
 ## Logo and Trademark
 
